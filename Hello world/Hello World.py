@@ -1,1 +1,3 @@
-print("Hello World", "Soovib Kevin", sep="\n")
+from ExerciseHelloWorld import printHelloWorld
+
+printHelloWorld()
